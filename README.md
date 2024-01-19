@@ -1,6 +1,6 @@
-### Hi, I'm Pavlo 👋
+### Hi, I'm Pavel 👋
 
-I'm Pavlo Pasichnyk, Full Stack Developer. My experienced both in Front-end and Back-end technologies. I like to spend time writing code.
+I'm Pavel Pasechnik, Full Stack Developer. My experienced both in Front-end and Back-end technologies. I like to spend time writing code.
 
 #### My stack technologies
 
