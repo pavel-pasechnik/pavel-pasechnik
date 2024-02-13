@@ -8,7 +8,7 @@ I'm Pavel Pasechnik, Full Stack Developer. My experienced both in Front-end and 
 
 #### About me 📁
 
-📎 [My resume](https://pavel-pasechnik.github.io/resume-project/)
+📎 <a href="https://pavel-pasechnik.github.io/resume-project/" target="_blank">My resume</a>
 
 #### 📫 How to reach my
 
