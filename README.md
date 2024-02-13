@@ -8,12 +8,12 @@ I'm Pavel Pasechnik, Full Stack Developer. My experienced both in Front-end and 
 
 #### About me 📁
 
-📎 <a href="https://pavel-pasechnik.github.io/resume-project/" target="blank">My resume</a>
+📎 <a href="https://pavel-pasechnik.github.io/resume-project/" target="_blank">My resume</a>
 
 #### 📫 How to reach my
 
-<a href="https://www.linkedin.com/in/pasechnikpavel/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/PavelGood" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.linkedin.com/in/pasechnikpavel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/PavelGood" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 #### My stats ⭐️
 
